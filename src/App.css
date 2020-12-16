@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body {
+  background-color: deepskyblue;
+  font-family: Andika New Basic;
 }
